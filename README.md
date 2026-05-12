@@ -1,6 +1,6 @@
 # 👋 Welcome to My Cybersecurity Portfolio
 
-Hi, I'm Ihar — an aspiring cybersecurity professional currently. I'm actively building hands-on experience across multiple security domains.
+Hello, I'm Ihar — an aspiring cybersecurity professional currently. I'm actively building hands-on experience across multiple security domains.
 
 This repository serves as a living portfolio of my journey — documenting everything from home lab configurations and practical exercises to formal reports and community contributions.
 
@@ -8,6 +8,6 @@ This repository serves as a living portfolio of my journey — documenting every
 
 | Branch | Contents |
 |--------|----------|
-| [🏠 HomeLabs](README.md) | Hands-on lab documentation with screenshots and step-by-step walkthroughs |
-| [📋 Reports, Audits, Summaries, Worksheets](#) | Formal write-ups, risk registers, security assessments and course work |
-| [🤝 Contributions to the CyberSecurity Society](#) | Educational content, methodology guides and community-facing materials |
+| [🏠 HomeLabs](https://github.com/Shcherbaa/CyberSecurity/blob/HomeLabs/README.md) | Hands-on lab documentation with screenshots and step-by-step walkthroughs |
+| [📋 Reports, Audits, Summaries, Worksheets](https://github.com/Shcherbaa/CyberSecurity/blob/Reports%2C-audits%2C-summaries%2C-worksheets/README.md) | Formal write-ups, risk registers, security assessments and course work |
+| [🤝 Contributions to the CyberSecurity Society](https://github.com/Shcherbaa/CyberSecurity/blob/Contributions-to-the-CyberSecurity-Society/README.md) | Educational content, methodology guides and community-facing materials |
