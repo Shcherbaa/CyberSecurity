@@ -10,7 +10,7 @@ This repository serves as a living portfolio of my journey — documenting every
 |--------|----------|
 | [🏠 HomeLabs](https://github.com/Shcherbaa/CyberSecurity/blob/HomeLabs/README.md) | Hands-on lab documentation with screenshots and step-by-step walkthroughs |
 | [📋 Reports, Audits, Summaries, Worksheets](https://github.com/Shcherbaa/CyberSecurity/blob/Reports%2C-audits%2C-summaries%2C-worksheets/README.md) | Formal write-ups, risk registers, security assessments and course work |
-| [🤝 Contributions to the CyberSecurity Society](https://github.com/Shcherbaa/CyberSecurity/blob/Contributions-to-the-CyberSecurity-Society/README.md) | Educational content, methodology guides and community-facing materials |
+| [🤝 Contributions to the CyberSecurity Society](https://github.com/Shcherbaa/CyberSecurity/tree/Contributions-to-the-CyberSecurity-Society) | Educational content, methodology guides and community-facing materials |
 
 > *"I am an investigator by inclination. I feel a great thirst for knowledge."* — Immanuel Kant
 
