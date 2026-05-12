@@ -1,4 +1,4 @@
-#🤝 Contributions to the CyberSecurity Society
+# 🤝 Contributions to the CyberSecurity Society
 
 This branch contains educational content created to share knowledge with the broader cybersecurity community — particularly beginners entering the field.
 
