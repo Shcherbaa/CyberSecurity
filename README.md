@@ -14,9 +14,9 @@ This repository serves as a living portfolio of my journey — documenting every
 
 ### 🧠 My Motto
 
-> 💬 *"I am an investigator by inclination. I feel a great thirst for knowledge."*  
+*"I am an investigator by inclination. I feel a great thirst for knowledge."*  
 > — **Immanuel Kant**
->
+
 > ### 📌 Note
 
-> If you do not see attached files in my branches after clicking the links, please refresh the page.
+If you do not see attached files in my branches after clicking the links, please refresh the page.
