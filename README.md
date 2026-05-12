@@ -8,6 +8,6 @@ This repository serves as a living portfolio of my journey — documenting every
 
 | Branch | Contents |
 |--------|----------|
-| [🏠 HomeLabs](#) | Hands-on lab documentation with screenshots and step-by-step walkthroughs |
+| [🏠 HomeLabs](README.md) | Hands-on lab documentation with screenshots and step-by-step walkthroughs |
 | [📋 Reports, Audits, Summaries, Worksheets](#) | Formal write-ups, risk registers, security assessments and course work |
 | [🤝 Contributions to the CyberSecurity Society](#) | Educational content, methodology guides and community-facing materials |
