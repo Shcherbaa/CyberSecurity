@@ -1,15 +1,34 @@
-# 👋 Welcome to My Cybersecurity Portfolio
+# 👋 Cybersecurity Portfolio
 
-Hello, I'm Ihar — a cybersecurity professional. I'm actively building hands-on experience across multiple security domains.
+Hello, I'm Ihar — an aspiring cybersecurity professional building
+hands-on experience across offensive security, network analysis,
+and security engineering.
 
-This repository serves as a living portfolio of my journey — documenting everything from home lab configurations and practical exercises to formal reports and community contributions.
+This repository is a living record of my learning journey — lab work,
+formal reports, and educational write-ups, organised by type.
 
-## 🗂️ What's Inside
+## 🗂️ Contents
 
-| Branch | Contents |
-|--------|----------|
-| [🏠 HomeLabs](https://github.com/Shcherbaa/CyberSecurity/tree/HomeLabs) | Hands-on lab documentation with screenshots and step-by-step walkthroughs |
-| [📋 Reports, Audits, Summaries, Worksheets](https://github.com/Shcherbaa/CyberSecurity/tree/Reports%2C-audits%2C-summaries%2C-worksheets) | Formal write-ups, risk registers, security assessments and course work |
-| [🤝 Contributions to the CyberSecurity Society](https://github.com/Shcherbaa/CyberSecurity/tree/Contributions-to-the-CyberSecurity-Society) | Educational content, methodology guides and community-facing materials |
+| Folder | Description |
+|--------|-------------|
+| [🏠 HomeLabs](./HomeLabs/) | Practical lab exercises covering Linux, Windows, networking, and security tooling |
+| [📋 Reports](./Reports/) | Formal write-ups, risk registers, vulnerability assessments, and incident reports |
+| [📖 WriteUps](./WriteUps/) | Beginner-friendly guides on networking, Linux permissions, and foundational concepts |
+
+## 🛠️ Skills Practiced
+
+- Network security & traffic analysis
+- Windows & Linux administration
+- SIEM deployment & log analysis
+- Vulnerability assessment & risk management
+- Penetration testing foundations
+
+## 🎓 Certifications
+
+- ✅ Google Cybersecurity Certificate
+- 🔄 HTB Academy — CJCA (active)
+- 📍 Roadmap: eJPT → PNPT → OSCP
+
+---
 
 > *"I am an investigator by inclination. I feel a great thirst for knowledge."* — Immanuel Kant
