@@ -1,6 +1,6 @@
 # 👋 Cybersecurity Portfolio
 
-Hello, I'm Ihar — an a cybersecurity professional in the early stages of their career building
+Hello, I'm Ihar — a cybersecurity specialist at the start of my career building
 hands-on experience across offensive security, network analysis,
 and security engineering.
 
