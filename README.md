@@ -26,8 +26,8 @@ formal reports, and educational write-ups, organised by type.
 ## 🎓 Certifications
 
 - ✅ Google Cybersecurity Certificate
-- 🔄 HTB Academy — CJCA (active)
-- 📍 Roadmap: eJPT → PNPT → OSCP
+- ✅ HTB Academy — CJCA
+- 📍 HTB Academy — CPTS (active)
 
 ---
 
