@@ -1,0 +1,10 @@
+<a><b><c>
+<div class="box"><span>hello</span></div>
+<p>first</p><p>second</p><p>third</p>
+"quote one" then "quote two" then "quote three"
+aaa  aa   aaaa     a
+colour color neighbour neighbor
+<img src="pic.png"> <img src="logo.svg">
+<<<arrows>>> and ((nested)) brackets
+key1=val1; key2=val2; key3=val3
+2026-11-05T06:38:47  2026-11-05T09:10:00

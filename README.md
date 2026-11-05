@@ -1,11 +1,13 @@
 # 👋 Cybersecurity Portfolio
 
-Hello, I'm Ihar — a cybersecurity specialist at the start of my career building
-hands-on experience across offensive security, network analysis,
-and security engineering.
+Hello, I'm Ihar, a junior security analyst focused on offensive security and at the
+start of my career. I'm building hands-on experience across penetration testing,
+security operations and security engineering.
 
-This repository is a living record of my learning journey — lab work,
-formal reports, and educational write-ups, organised by type.
+This repository is a living record of my learning: lab work, formal reports,
+educational write-ups and my own Python tools, organised by type.
+
+[LinkedIn](https://www.linkedin.com/in/ihar-shcharbitski) · [SnakeMove](https://github.com/Shcherbaa/SnakeMove): my PowerShell module for lateral movement assessment ([PowerShell Gallery](https://www.powershellgallery.com/packages/SnakeMove))
 
 ## 🗂️ Contents
 
@@ -14,6 +16,7 @@ formal reports, and educational write-ups, organised by type.
 | [🏠 HomeLabs](./HomeLabs/) | Practical lab exercises covering Linux, Windows, networking, and security tooling |
 | [📋 Reports](./Reports/) | Formal write-ups, risk registers, vulnerability assessments, and incident reports |
 | [📖 WriteUps](./WriteUps/) | Beginner-friendly guides on networking, Linux permissions, and foundational concepts |
+| [🐍 Python](./Python/) | Python tools I build for security work, automation and practice |
 
 ## 🛠️ Skills Practiced
 
@@ -22,12 +25,13 @@ formal reports, and educational write-ups, organised by type.
 - SIEM deployment & log analysis
 - Vulnerability assessment & risk management
 - Penetration testing foundations
+- Python scripting
 
 ## 🎓 Certifications
 
-- ✅ Google Cybersecurity Certificate
-- ✅ HTB Academy — CJCA
-- 📍 HTB Academy — CPTS (active)
+- ✅ [HTB Certified Junior Cybersecurity Associate (CJCA)](https://profile.hackthebox.com/profile/019da62e-1bfa-73b5-b013-442d85bcc12b/certificate/HTBCERT-553B2BFCD6), Hack The Box, Nov 2026
+- ✅ Google Cybersecurity program (Coursera): verified course certificates, 2026
+- 📍 HTB Certified Penetration Testing Specialist (CPTS): path in progress
 
 ---
 

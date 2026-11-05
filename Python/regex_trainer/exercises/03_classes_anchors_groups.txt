@@ -1,0 +1,11 @@
+vanya.test@example.com, admin@mail.co.uk, no-reply@github.io
+not_an_email@, @broken.com, plain text
+2026-11-05  2025-01-31  1999-12-01
+05/11/2026  31-01-2025  1/2/26
+192.168.0.1  10.0.0.255  8.8.8.8  999.1.1.1(invalid)
++375 29 123-45-67   +1 (415) 555-0199   8005553535
+09:10  23:59:59  7:5  00:00:00
+#a1b2c3  #FFF  #12ZZ34(invalid)  #0088ff
+https://github.com/user/repo   http://example.org/path?x=1
+file_2026.py  report-final.PDF  notes.MD  archive.tar.gz
+Order #4417 shipped; invoice INV-2026-0098 total 250

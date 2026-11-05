@@ -1,0 +1,8 @@
+price_usd = 42
+cost: $1999 and discount $5 plus €100 and 250 USD
+username=vanya; password=HunterGreen9; role=admin
+temperature 36C, 72F, 300K
+file sizes: 15KB 4MB 2GB 900B
+tokens: AKIAIOSFODNN7EXAMPLE and ghp_dummy123
+amount due 1500 euro, paid 1500, balance 0
+label: value1    key: value2    x: 99
