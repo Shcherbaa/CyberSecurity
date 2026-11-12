@@ -10,6 +10,7 @@ Every project has its own folder with a README that covers its purpose, usage an
 |---|---|---|
 | [pdf_to_md](pdf_to_md/) | Converts PDFs or whole folders of PDFs to Markdown, with automatic OCR for scanned pages | PyMuPDF, Tesseract OCR, pathlib, click |
 | [regex_trainer](regex_trainer/) | Interactive command-line trainer for regular expressions, with synthetic exercises that include secret detection | re, pathlib, error handling |
+| [python_essentials](python_essentials/) | Runnable cheat-sheet of 35 Python topics for security work, from comprehensions to sockets, SQLite and browser automation | argparse, subprocess, socket, sqlite3, struct, requests |
 
 ## Responsible use
 

@@ -1,0 +1,7 @@
+# Optional: only the topics listed below need these packages.
+# Everything else in python_essentials.py runs on the standard library.
+
+requests>=2.31          # topics 26 and 32
+beautifulsoup4>=4.12    # topic 32
+selenium>=4.15          # topic 33 (also needs Firefox)
+playwright>=1.40        # topic 34 (then run: playwright install firefox)
