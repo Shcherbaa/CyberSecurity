@@ -29,8 +29,8 @@ educational write-ups and my own Python tools, organised by type.
 
 ## 🎓 Certifications
 
-- ✅ [HTB Certified Junior Cybersecurity Associate (CJCA)](https://profile.hackthebox.com/profile/019da62e-1bfa-73b5-b013-442d85bcc12b/certificate/HTBCERT-553B2BFCD6), Hack The Box, Nov 2026
-- ✅ Google Cybersecurity program (Coursera): verified course certificates, 2026
+- ✅ [HTB Certified Junior Cybersecurity Associate (CJCA)](https://profile.hackthebox.com/profile/019da62e-1bfa-73b5-b013-442d85bcc12b/certificate/HTBCERT-553B2BFCD6): Hack The Box, Nov 2026
+- ✅ [Google Cybersecurity program (Coursera)](https://www.coursera.org/account/accomplishments/professional-cert/248IXZTUZ1MY): 9 courses, most completed Jan-Apr 2026.
 - 📍 HTB Certified Penetration Testing Specialist (CPTS): path in progress
 
 ---
